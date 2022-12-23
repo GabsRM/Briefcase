@@ -35,13 +35,13 @@ html {
 
 }
 /* scroll snap */
-
-.services, 
+/* 
 .principal_navigation,
+.container, 
 .form {
-  scroll-snap-align: center;
+  scroll-snap-align: calc();
   scroll-snap-stop: always;
-}
+} */
 
 
 *,
